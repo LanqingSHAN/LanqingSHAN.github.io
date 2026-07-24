@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Research Professor, School of Advanced Manufacturing and Robotics, Peking University
 
