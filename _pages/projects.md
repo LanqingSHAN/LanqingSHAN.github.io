@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+{% include academic-style.liquid %}
 
 ### National Research and Policy Advisory / 国家科研与政策咨询
 
