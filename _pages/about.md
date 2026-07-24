@@ -4,7 +4,10 @@ title: about
 permalink: /
 subtitle: Associate Research Professor, School of Advanced Manufacturing and Robotics, Peking University
 
-profile: false
+profile:
+  align: right
+  image: lanqing-shan-profile.jpg
+  image_circular: false
 
 selected_papers: false
 social: false
