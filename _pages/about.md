@@ -25,3 +25,31 @@ My research focuses on optimization and intelligent coordination across energy a
 Over the years, I have undertaken commissioned research for government agencies on the operating mechanisms and enabling technologies of China's energy system. My work has contributed to the design and implementation of China's first electricity spot market and provided research support for national energy strategies and industry policy development.
 
 **Email:** [lanqingshan@pku.edu.cn](mailto:lanqingshan@pku.edu.cn)
+
+
+## Experience
+
+**Associate Research Professor**  
+School of Advanced Manufacturing and Robotics, Peking University  
+*2026 - Present*
+
+**Postdoctoral Researcher in Electrical Engineering**  
+Department of Electrical Engineering, Tsinghua University  
+Postdoctoral Advisor: Prof. Chongqing Kang  
+*2023 - 2025*
+
+## Education
+
+**Ph.D. in Electronic and Electrical Engineering**  
+University of Bath, United Kingdom  
+Advisor: Prof. Furong Li  
+*2017 - 2022*  
+Research Assistant, Department of Electronic and Electrical Engineering, 2017 - 2019
+
+**B.Eng. in Electrical Engineering and Automation**  
+Department of Electrical Engineering, Tsinghua University  
+*2013 - 2017*
+
+**Minor in Finance**  
+PBC School of Finance, Tsinghua University  
+*2015 - 2017*
