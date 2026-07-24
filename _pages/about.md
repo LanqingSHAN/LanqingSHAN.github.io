@@ -27,6 +27,21 @@ Over the years, I have undertaken commissioned research for government agencies 
 **Email:** [lanqingshan@pku.edu.cn](mailto:lanqingshan@pku.edu.cn)
 
 
+## Research Interests
+
+### Electricity Market Design, Policy, and Practice
+
+I study how electricity market mechanisms can support the reliable, efficient, and low-carbon operation of power systems. My research covers the design and evaluation of spot, balancing, and flexibility mechanisms, the interaction between electricity market rules and energy policy, and the translation of analytical findings into implementable market solutions.
+
+### Multi-Level and Distributed Energy System Coordination
+
+I investigate coordination across transmission and distribution systems and among heterogeneous distributed energy resources. My work develops multi-level optimization and distributed decision-making methods for transmission-distribution coordination, distributed resource control, peer-to-peer energy trading, and the coordinated operation of heterogeneous flexible resources.
+
+### Data Center Flexibility and Computing-Power Coordination
+
+I explore how data centers can evolve from passive electricity consumers into flexible resources for power-system operation and electricity markets. My research includes mapping computing tasks to electricity demand, scheduling computing workloads in response to electricity signals, aggregating data center flexibility through virtual power plants, and jointly planning and operating computing and power infrastructure for green AI.
+
+
 ## Experience
 
 **Associate Research Professor**  
