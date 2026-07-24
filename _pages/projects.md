@@ -7,9 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-My project experience spans national research programs, government-commissioned policy studies, industry-sponsored projects, and international foundation grants, with a focus on electricity market design, power-system transition, flexibility, and distributed energy-system coordination.
-
-我的项目经历涵盖国家科研计划、政府部门委托研究、企业科技项目与国际基金会项目，主要围绕电力市场设计、新型电力系统转型、灵活性机制与分布式能源系统协同展开。
 
 ### National Research and Policy Advisory / 国家科研与政策咨询
 
