@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+{% include academic-style.liquid %}
+
 *The publications below represent part of my ongoing research. Further work is underway, and this list will continue to evolve.*
 
 1. **Lanqing Shan**, Nan Jiang, Weiran Li, and Hongye Guo. “Building an Electricity Market System for High-Penetration Renewable Energy Development during China’s 15th Five-Year Plan” *(in Chinese)*. *Financial Minds*, 10(4), 45–64, 136–137, 2025.
