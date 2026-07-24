@@ -19,6 +19,8 @@ latest_posts:
   enabled: false
 ---
 
+{% include academic-style.liquid %}
+
 ## About Me
 
 I am an Associate Research Professor at the School of Advanced Manufacturing and Robotics, Peking University. I also serve as the liaison for the establishment of the Beijing Key Laboratory of Green Intelligent Computing Infrastructure and Computing-Power Coordination and am a member of the Beijing Female Professor Association.
